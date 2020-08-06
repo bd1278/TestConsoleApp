@@ -10,6 +10,8 @@ namespace TestConsoleApp
 
             Console.WriteLine("this is update 2");
 
+            Console.WriteLine("this is update 3");
+
         }
     }
 }
