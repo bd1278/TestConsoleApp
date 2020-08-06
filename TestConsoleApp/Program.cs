@@ -8,6 +8,8 @@ namespace TestConsoleApp
         {
             Console.WriteLine("This is update 1");
 
+            Console.WriteLine("this is update 2");
+
         }
     }
 }
